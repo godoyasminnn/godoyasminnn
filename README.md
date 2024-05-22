@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+Bem vindas ao meu perfil
+Meu nome é Yasmin de Godoy
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+![](link)
+Você pode entrar em contato comigo
+00001081169746sp@al.educacaao.sp.gov.br
 <!--
 **godoyasminnn/godoyasminnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
