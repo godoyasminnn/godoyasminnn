@@ -1,6 +1,6 @@
 ## Hi there 👋
 Bem vindas ao meu perfil
-###Prazer me chamo,** Yasmin de Godoy**
+### Prazer me chamo,** Yasmin de Godoy**
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 ![](link)
