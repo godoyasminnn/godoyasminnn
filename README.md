@@ -1,7 +1,7 @@
 ## Hi there 👋
 Bem vindas ao meu perfil
 ### Prazer me chamo, Yasmin de Godoy
-Estou estudando na ![Alurta](link)
+Estou estudando na ![Alura](link)
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 ![](link)
